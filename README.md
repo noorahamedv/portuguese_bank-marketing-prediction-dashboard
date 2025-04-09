@@ -64,7 +64,7 @@ It leverages **Python modeling** and a **Power BI dashboard** to deliver clear, 
   - XGBoost ✅ Best performance  
 - **Explainability**: SHAP beeswarm plot  
 
-🔗 [Final Project Report (PDF)](report/Report.pdf)
+🔗 [Final Project Report (PDF)](/PORTUGUESE Bank Marketing Prediction.pdf)
 
 ---
 
