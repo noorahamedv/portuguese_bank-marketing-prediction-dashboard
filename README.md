@@ -1,6 +1,7 @@
 # 📊 Bank Marketing Campaign Prediction Dashboard
 
-This Project predict customer subscription to term deposits using a Portuguese bank's marketing data.It includes Python machine learning, SHAP explainability, and Power BI dashboard.
+This Project predicts customer subscription to term deposits using a Portuguese bank's marketing data.  
+It includes Python machine learning, SHAP explainability, and a Power BI dashboard.
 
 This project combines **machine learning** and **business intelligence** to predict whether customers will subscribe to a term deposit based on direct marketing campaign data from a Portuguese bank. 
 
@@ -20,15 +21,16 @@ It leverages **Python modeling** and a **Power BI dashboard** to deliver clear, 
 
 ## 🧱 Dataset Overview
 
-Source: UCI Machine Learning Repository
-- Size: ~41,000 records
-- Target Variable: y (1 = subscribed, 0 = not subscribed) <br/> 
- <br/>  `Key Features:`
-- `Demographics`: age, job, education, marital status
-- `Campaign interaction`: contact month, number of contacts, call duration
-- `Economic context`: employment rate, consumer index
+**Source**: UCI Machine Learning Repository  
+- Size: ~41,000 records  
+- Target Variable: `y` (1 = subscribed, 0 = not subscribed)  
 
-**Dimension Tables**  
+### `Key Features:`
+- `Demographics`: age, job, education, marital status  
+- `Campaign interaction`: contact month, number of contacts, call duration  
+- `Economic context`: employment rate, consumer index  
+
+### **Dimension Tables**  
 - `dim_time`: Time attributes (date, month, year)  
 - `dim_stock`: Stock tickers and company mapping  
 - `dim_company`: Company names and ticker info  
@@ -37,40 +39,32 @@ Source: UCI Machine Learning Repository
 ---
 
 ## 🧠 Tech Used
-- `Language`: Python (Google Colab)
-- `ML Libraries`: pandas, scikit-learn, XGBoost, SHAP, imblearn
-- `BI Tool`: Microsoft Power BI
-- `Other Tools`: Matplotlib, Seaborn, SMOTE, Joblib
+
+- `Language`: Python (Google Colab)  
+- `ML Libraries`: pandas, scikit-learn, XGBoost, SHAP, imblearn  
+- `BI Tool`: Microsoft Power BI  
+- `Other Tools`: Matplotlib, Seaborn, SMOTE, Joblib  
 
 ---
 
 ## 📥 Report
 
-🧠 Modeling Approach
-- Preprocessing: Removed unknown, one-hot encoded categoricals
-- Feature Engineering: Added subscription_probability, score_bin
-- Model Training:
-a. Logistic Regression
-b. Random Forest
-c. XGBoost ✅ Best performance
-- Explainability: SHAP beeswarm plot
+### 🧠 Modeling Approach
+
+- **Preprocessing**: Removed `unknown`, one-hot encoded categoricals  
+- **Feature Engineering**: Added `subscription_probability`, `score_bin`  
+- **Model Training**:
+  - Logistic Regression  
+  - Random Forest  
+  - XGBoost ✅ Best performance  
+- **Explainability**: SHAP beeswarm plot  
 
 🔗 [Final Project Report (PDF)](report/Report.pdf)
 
 ---
 
+## 📸 Report Summary Preview
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center">
+  <img src="report.png" alt="Final Report Preview" width="800"/>
+</p>
