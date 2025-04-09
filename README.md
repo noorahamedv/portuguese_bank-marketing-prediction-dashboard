@@ -63,8 +63,8 @@ It leverages **Python modeling** and a **Power BI dashboard** to deliver clear, 
 
 ---
 
-## 📸 Report Summary Preview
+## 📸 Report Preview
 
 <p align="center">
-  <img src="report.png" alt="Final Report Preview" width="800"/>
+  <img src="dashboard.png" alt="Final Report Preview" width="800"/>
 </p>
