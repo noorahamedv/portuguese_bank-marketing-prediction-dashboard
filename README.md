@@ -22,8 +22,8 @@ It leverages **Python modeling** and a **Power BI dashboard** to deliver clear, 
 
 Source: UCI Machine Learning Repository
 - Size: ~41,000 records
-- Target Variable: y (1 = subscribed, 0 = not subscribed)
-- Key Features:
+- Target Variable: y (1 = subscribed, 0 = not subscribed) < br / > 
+  `Key Features:`
 - `Demographics`: age, job, education, marital status
 - `Campaign interaction`: contact month, number of contacts, call duration
 - `Economic context`: employment rate, consumer index
