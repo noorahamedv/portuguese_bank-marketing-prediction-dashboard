@@ -1,10 +1,5 @@
 # 📊 Bank Marketing Campaign Prediction ( ETL | Python | Power BI )
 
-<p align="center">
-  <img src="dashboard.png" alt="Final Report Preview" width="800"/>
-</p>
-
-
 This Project predicts customer subscription to term deposits using a Portuguese bank's marketing data.  
 It includes Python machine learning, SHAP explainability, and a Power BI dashboard.
 
@@ -52,8 +47,6 @@ It leverages **Python modeling** and a **Power BI dashboard** to deliver clear, 
 
 ---
 
-## 📥 Report
-
 ### 🧠 Modeling Approach
 
 - **Preprocessing**: Removed `unknown`, one-hot encoded categoricals  
@@ -70,7 +63,6 @@ It leverages **Python modeling** and a **Power BI dashboard** to deliver clear, 
 
 
 # 📈 Bank Marketing Campaign Dashboard
-
 
 [🔗 **View Live Dashboard**](https://app.powerbi.com/groups/me/reports/840bcf9f-f6a3-4153-9fa9-cfa6a1bad5ac/23946273c36555284857?experience=power-bi)
 
@@ -253,6 +245,10 @@ Tracks **monthly lead score trends** by job type.
 
 ## 📌 Dashboard Overview (Quick View)
 
+<p align="center">
+  <img src="dashboard.png" alt="Final Report Preview" width="800"/>
+</p>
+
 | Section | Description |
 |--------|-------------|
 | **Top-Left** | KPI Cards: Total Customers, Subscribed, High-Score Leads |
@@ -271,9 +267,3 @@ Tracks **monthly lead score trends** by job type.
 - 📍 Dashboard helps marketing teams focus on **high-conversion profiles**.
 
 ---
-
-
-
-
----
-
