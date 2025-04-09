@@ -1,5 +1,10 @@
 # 📊 Bank Marketing Campaign Prediction Dashboard
 
+<p align="center">
+  <img src="dashboard.png" alt="Final Report Preview" width="800"/>
+</p>
+
+
 This Project predicts customer subscription to term deposits using a Portuguese bank's marketing data.  
 It includes Python machine learning, SHAP explainability, and a Power BI dashboard.
 
@@ -63,8 +68,3 @@ It leverages **Python modeling** and a **Power BI dashboard** to deliver clear, 
 
 ---
 
-## 📸 Report Preview
-
-<p align="center">
-  <img src="dashboard.png" alt="Final Report Preview" width="800"/>
-</p>
