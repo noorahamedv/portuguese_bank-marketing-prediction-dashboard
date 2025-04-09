@@ -62,7 +62,11 @@ It leverages **Python modeling** and a **Power BI dashboard** to deliver clear, 
   - Logistic Regression  
   - Random Forest  
   - XGBoost ✅ Best performance  
-- **Explainability**: SHAP beeswarm plot  
+- **Explainability**: SHAP beeswarm plot
+
+- The complete analysis, insights, and business recommendations are available in the PDF below:
+
+📥 [PORTUGUESE Bank Marketing Prediction.pdf](PORTUGUESE%20Bank%20Marketing%20Prediction.pdf)
 
 
 
